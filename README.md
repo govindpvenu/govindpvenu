@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=0:89b4fa,50:cba6f7,100:f5c2e7" alt="Catppuccin themed header" />
-</p>
-
 # Bonjour, World <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="4%">
 
 ## About Me
