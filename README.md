@@ -1,16 +1,35 @@
-## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> 
+# Bonjour, World <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="4%">
 
-<!--
-**govindpvenu/govindpvenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Quick Facts
 
-Here are some ideas to get you started:
+```javascript
+const aboutMe = {
+  name: "Govind P Venu",
+  role: "Full Stack Developer",
+  location: "Bangalore, India",
+  passion: "Building products that matter",
+  interests: ["Web Dev", "Open Source", "Linux"],
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Arsenal
+
+```javascript
+const techStack = {
+  languages: ["TypeScript", "Go", "Python", "C"],
+  frontend: ["React", "Next.js", "TailwindCSS"],
+  backend: ["Node.js", "Express", "Hono", "PostgreSQL", "MongoDB"],
+  tools: ["Git", "Postman", "VS Code", "Linux", "Docker"],
+  currentlyExploring: ["Tanstack Start", "React Native"],
+};
+```
+
+## 📫 How to reach me
+
+- Twitter: [@govindpvenu](https://twitter.com/govindpvenu)
+- LinkedIn: [Govind P Venu](https://linkedin.com/in/govindpvenu)
+- Email: govindpvenu.txt@gmail.com
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
